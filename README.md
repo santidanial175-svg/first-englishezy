@@ -1,5 +1,3 @@
-# first-englishezy
-English is easy
 <!DOCTYPE html>
 <html lang="id">
 <head>
